@@ -94,8 +94,6 @@ world-cup-scheduling-optimisation/
 ├── requirements.txt
 ├── data/
 │   └── world_cup_scheduling_data.xlsx
-├── docs/
-│   └── project_summary.md
 └── notebooks/
     └── world_cup_scheduling_optimisation.ipynb
 ```
@@ -125,6 +123,3 @@ Then open and run:
 notebooks/world_cup_scheduling_optimisation.ipynb
 ```
 
-## Portfolio Summary
-
-This project shows the use of optimisation modelling for tournament planning and resource allocation. It combines data preparation, mathematical programming, constraint modelling, and business interpretation in a sports analytics context.
