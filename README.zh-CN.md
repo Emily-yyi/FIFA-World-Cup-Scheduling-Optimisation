@@ -94,8 +94,6 @@ world-cup-scheduling-optimisation/
 ├── requirements.txt
 ├── data/
 │   └── world_cup_scheduling_data.xlsx
-├── docs/
-│   └── project_summary.md
 └── notebooks/
     └── world_cup_scheduling_optimisation.ipynb
 ```
@@ -124,7 +122,3 @@ pip install -r requirements.txt
 ```text
 notebooks/world_cup_scheduling_optimisation.ipynb
 ```
-
-## 简历项目总结
-
-这个项目展示了如何将优化建模用于大型赛事排程和资源分配问题。项目结合了数据整理、数学规划、约束建模和业务解释，适合放在 Business Analytics、Data Analyst、Operations Analyst 或 Optimisation Analytics 相关岗位的作品集中。
